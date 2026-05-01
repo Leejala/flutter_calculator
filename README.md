@@ -1,4 +1,74 @@
-# calculator
+# 🧮 Flutter Calculator App
+
+A simple and aesthetic calculator app built using Flutter.
+Designed with a clean UI and smooth functionality for everyday calculations 💜
+
+---
+
+## ✨ Features
+
+* Basic arithmetic operations (+, −, ×, ÷)
+* Clean and minimal user interface
+* Responsive design
+* Easy to use
+
+---
+
+## 📁 Project Structure
+
+```
+lib/
+ ├── calculator.dart
+ ├── main.dart
+ 
+```
+
+> All the main application code is inside the `lib/` folder (standard Flutter structure).
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+* Flutter SDK installed
+* Android Studio / VS Code
+
+### Run the app
+
+```bash
+flutter pub get
+flutter run
+```
+
+---
+
+## 📸 Screenshots
+
+(Add your app screenshots here)
+
+---
+
+## 🛠️ Built With
+
+* Flutter
+* Dart
+
+---
+
+## 💡 Future Improvements
+
+* Add dark mode
+* Add scientific calculator features
+* Improve UI animations
+
+---
+
+## 👩‍💻 Author
+
+Leejala Maharjan
+📧 [mleejala@gmail.com](mailto:mleejala@gmail.com)
+
 
 A new Flutter project.
 
